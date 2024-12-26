@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhtab224&show_icons=true&locale=en" alt="akhtab224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtab224&" alt="akhtab224" /></p>
+// (https://www.youtube.com/watch?v=sKuC-ejnPgY) yaar isay nahi delete kar na smit me akar marogai!!!
